@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    padding: 13px ;
+    background-color: #272822;
+    color: white;
+    font-family: 'Tapestry', cursive;
+}
+div h4{
+    margin: 5px;
+}
+h5{
+    font-size: 23px;
+    font-family: 'Lobster', cursive;
+}
+.language-html{
+    width: 60vw;
+  margin: 0 auto;
+}
+ol{
+    list-style: none;
+}
+.toolbar-item{
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 10px;
+    font-size: 25px;
+}
